@@ -1,0 +1,61 @@
+{
+  "citations": [
+    "[cloudflare.com](https://blog.cloudflare.com/why-were-rethinking-cache-for-the-ai-era)",
+    "[techwireasia.com](https://techwireasia.com/2026/06/why-enterprises-need-clearer-accountability-for-ai-agents)",
+    "[hpcwire.com](https://www.hpcwire.com/2026/05/26/inside-memkv-minios-3-5g-solution-for-kv-cache-acceleration/)",
+    "[anthropic.com](https://www.anthropic.com/news/introducing-claude-opus-4-8)",
+    "[openai.com](https://openai.com/blog/introducing-gpt-5-4)"
+  ],
+  "design_plan": "rng=42; AIDA checked; hero max-width\u22481120px yields 2\u20133 lines; centered hero/actions verified; bento grid uses grid-auto-flow:dense; button contrast checked; cache phrase sweep complete; competitor label sweep complete.",
+  "generated_at": "2026-07-02T17:35:05.199625+00:00",
+  "headline": "Computer-use cache for repeated AI agent workflows",
+  "site_brief": {
+    "audience": "builders and operators who need repeated computer-use automations to get cheaper and more reliable",
+    "canonical_url": "https://app.getsupers.com/use-cases/computer-use-cache/",
+    "cluster_links": [
+      {
+        "slug": "order-food-with-ai",
+        "title": "Order food with AI",
+        "url": "https://app.getsupers.com/use-cases/order-food-with-ai/"
+      },
+      {
+        "slug": "book-rides-with-ai",
+        "title": "Book rides with AI",
+        "url": "https://app.getsupers.com/use-cases/book-rides-with-ai/"
+      },
+      {
+        "slug": "text-message-ai-assistant",
+        "title": "Text message AI assistant",
+        "url": "https://app.getsupers.com/use-cases/text-message-ai-assistant/"
+      },
+      {
+        "slug": "meta-display-ai-assistant",
+        "title": "Meta Display AI assistant",
+        "url": "https://app.getsupers.com/use-cases/meta-display-ai-assistant/"
+      },
+      {
+        "slug": "ai-agent-build-websites",
+        "title": "AI agent to build websites",
+        "url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/"
+      },
+      {
+        "slug": "computer-use-cache",
+        "title": "Computer-use cache",
+        "url": "https://app.getsupers.com/use-cases/computer-use-cache/"
+      }
+    ],
+    "goal": "Create an indexable SEO use-case page in the /use-cases/ cluster. Target the practical query 'Computer-use cache', show the exact job-to-be-done, and explain how Super can perform the workflow with real computer use and a reusable computer-use cache. Include sibling use-case links so the cluster feels intentional, crawlable, and useful.",
+    "kind": "use_case",
+    "queries": [
+      "computer use cache AI agent",
+      "computer-use AI agent repeated workflows",
+      "browser automation agent cache",
+      "AI agent action trace reuse"
+    ],
+    "route_prefix": "use-cases",
+    "slug": "computer-use-cache",
+    "title": "Computer-use cache",
+    "use_case_intent": "explain Super's computer-use cache as the reusable memory layer for repeated browser and desktop workflows"
+  },
+  "summary": "An indexable use\u2011case page explaining how Super\u2019s computer\u2011use cache lets builders and operators reuse real browser and desktop actions so repeated automations get cheaper, faster, and more reliable over time."
+}
